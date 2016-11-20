@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1479615885 source:c:\respaldo\programacion\lenguajes\c\otros\imagenpgm\imagen.c
+	"imagen.h"
+
+1479615958 c:\respaldo\programacion\lenguajes\c\otros\imagenpgm\imagen.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1479586412 source:c:\respaldo\programacion\lenguajes\c\otros\imagenpgm\main.c
+	"imagen.h"
+
+1479617383 source:c:\respaldo\programacion\lenguajes\c\otros\imagenpgm\driver.c
+	"imagen.h"
+	<time.h>
+	<assert.h>
+
