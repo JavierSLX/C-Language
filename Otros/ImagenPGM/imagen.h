@@ -6,10 +6,10 @@
 #include <string.h>
 #include <ctype.h>
 
-#define COLUMNA 640
-#define RENGLON 480
+#define COLUMNA 300
+#define RENGLON 246
 #define LARGO COLUMNA
-#define ARCHIVO "balloons.pgm"
+#define ARCHIVO "coins.pgm"
 
 void siguienteRenglon(char cadena[], FILE *f);
 int errorImagen (char cadena[], FILE *f);
